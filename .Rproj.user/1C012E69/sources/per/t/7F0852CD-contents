@@ -1,0 +1,2 @@
+#start
+print('proba1')
